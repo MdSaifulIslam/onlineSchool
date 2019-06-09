@@ -1,0 +1,1 @@
+Please import this databae to localhost named result.

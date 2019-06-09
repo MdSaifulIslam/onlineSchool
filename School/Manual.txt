@@ -1,0 +1,2 @@
+1. Copy This project to "C:\xampp\htdocs"
+2. Import this databae to localhost database(MYSql) named result.
