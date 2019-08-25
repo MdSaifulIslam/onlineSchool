@@ -17,4 +17,6 @@
               user/email: saiful12@cse.pstu.ac.bd
               Password  : class12
               
-              Database : https://github.com/MdSaifulIslam/onlineSchool/tree/master/School/DATABASE
+              Database path : 
+              
+              onlineSchool/School/DATABASE
