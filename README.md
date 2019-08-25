@@ -4,9 +4,10 @@
 
 
 .............................Required Passwords................
+            
             *for Admin Login:
             User: admin@d.com
-        password: 123456
+            password: 123456
         
               * for teacher Login:
               User/Email: saiful12@cse.pstu.ac.bd
